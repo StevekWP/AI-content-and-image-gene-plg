@@ -1,0 +1,43 @@
+#aiccgen-google-loader img, .aiccgen-refine-draft-loader img, #aiccgen-google-refine-loader img, #aiccgen-google-create-post-loader img {width: 16px; height: 16px; vertical-align: middle;} span#aiccgen-google-loader {position: absolute; top: 0; right: -30px;} span.wrploader-wrap { position: relative; } .category-settings-group {margin-bottom: 20px; padding: 15px; border: 1px solid #e0e0e0; background: #fdfdfd;} .aiccgen-refine-draft-status { display: block; margin-top: 5px; font-size: smaller; } .aiccgen-field-group { margin-bottom: 15px; } .aiccgen-field-group label { display: block; font-weight: bold; margin-bottom: 3px; } .aiccgen-field-group textarea, .aiccgen-field-group select { width: 100%;display: block;} .aiccgen-field-group .description { margin-top: 3px; margin-bottom: 0; color: #666; }.aiccgen-field-group:last-child {margin: 0;}ul.top-catlistting li:last-child a {border: 0;padding: 0;}ul.top-catlistting li a:hover {color: #2271b1;}ul.top-catlistting {display: flex;flex-wrap: wrap;column-gap: 10px;row-gap: 10px;padding-top: 10px;border-top: 1px solid #d6cdcd;border-bottom: 1px solid #d6cdcd;padding-bottom: 10px;margin-top: 0px;justify-content: center;}
+    ul.top-catlistting li {margin: 0;}ul.top-catlistting li a {text-decoration: none;color: #000;font-weight: 600;border-right: 1px solid #a8a1a1;padding-right: 10px;}ul.glbl-pluginlisting {list-style: decimal;
+    padding-left: 15px;}ul.glbl-pluginlisting li ul {list-style: lower-latin;padding-left: 15px;padding-top: 5px;}ul.glbl-pluginlisting li {margin-bottom: 10px;}ul.glbl-pluginlisting li:last-child {margin-bottom: 0;}.glbl-pluginlistingtp {border-top: 1px solid #d6cdcd;border-bottom: 1px solid #d6cdcd;margin-bottom: 60px;}.glbl-pluginlistingtp h4+ul {padding-left: 25px;}
+
+.category-settings-group.plgcollapse {
+    display: none;
+}
+.category-slgname {
+    display: flex;
+    justify-content: space-between;
+}
+
+.category-collapseicon {
+    cursor: pointer;
+}
+
+.category-collapseicon svg {
+    width: 20px;
+    height: 20px;
+}
+
+table.form-table tr {
+    position: relative;
+}
+
+.aiccgen-refine-image-status.success {
+    font-size: smaller;
+}
+.description a {
+    color: #646970;
+}
+.aiccgen-refine-image-status {
+    font-size: smaller;
+}
+.success {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    margin: 5px 0 2px;
+    padding: 1px 12px;
+    border-left-color: #4ea323;
+}
